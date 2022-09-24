@@ -11787,6 +11787,8 @@ body {
     background-size: cover;
     padding-bottom: 10%;
     width: 50%;
+    margin: auto;
+    margin-top: 15px;
 }
 
 .logo {
